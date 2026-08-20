@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Local IDE settings
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

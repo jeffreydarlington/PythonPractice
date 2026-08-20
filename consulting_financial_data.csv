@@ -1,0 +1,801 @@
+Date,Client_ID,Industry,Project_Type,Consultant_Level,Region,Hours_Billed,Hourly_Rate,Revenue,Cost,Profit
+2024-10-16,C2824,Finance,Digital Transformation,Mid,Europe,112,104,11648,6406.4,5241.6
+2023-05-23,C2679,Government,Operations,Junior,Africa,112,68,7616,4569.6,3046.4
+2024-03-08,C1520,Finance,Strategy,Mid,Europe,126,129,16254,8939.7,7314.3
+2024-06-01,C1434,Retail,Data Analytics,Principal,Europe,159,287,45633,20534.85,25098.15
+2024-04-04,C5557,Finance,Data Analytics,Principal,Asia,139,307,42673,19202.85,23470.15
+2023-10-12,C3547,Healthcare,Digital Transformation,Junior,North America,31,74,2294,1376.4,917.6
+2024-01-25,C2584,Technology,Digital Transformation,Senior,North America,179,229,40991,20495.5,20495.5
+2024-04-15,C9785,Finance,Audit,Junior,Africa,199,52,10348,6208.8,4139.2
+2023-10-28,C6925,Retail,Data Analytics,Junior,North America,30,58,1740,1044,696
+2024-11-08,C4733,Technology,Strategy,Mid,North America,98,139,13622,7492.1,6129.9
+2024-01-25,C5554,Energy,Digital Transformation,Mid,Asia,62,109,6758,3716.9,3041.1
+2023-12-30,C4432,Government,Digital Transformation,Junior,Africa,197,56,11032,6619.2,4412.8
+2024-10-12,C3803,Retail,Data Analytics,Mid,Middle East,90,139,12510,6880.5,5629.5
+2024-01-24,C5422,Government,Operations,Mid,Asia,143,143,20449,11246.95,9202.05
+2023-02-27,C4752,Finance,Digital Transformation,Principal,Asia,53,263,13939,6272.55,7666.45
+2023-03-09,C4456,Retail,Digital Transformation,Mid,Middle East,104,97,10088,5548.4,4539.6
+2024-02-10,C8517,Healthcare,Digital Transformation,Mid,Europe,91,115,10465,5755.75,4709.25
+2024-07-28,C9830,Technology,Operations,Principal,Africa,50,314,15700,7065,8635
+2024-02-13,C6930,Healthcare,Data Analytics,Principal,North America,98,378,37044,16669.8,20374.2
+2023-02-18,C2796,Healthcare,Data Analytics,Principal,Africa,145,385,55825,25121.25,30703.75
+2023-03-07,C7304,Energy,Operations,Principal,Africa,172,290,49880,22446,27434
+2023-09-15,C1188,Government,Strategy,Senior,Asia,37,221,8177,4088.5,4088.5
+2023-04-25,C5808,Energy,Data Analytics,Principal,North America,171,311,53181,23931.45,29249.55
+2023-09-27,C9201,Healthcare,Operations,Junior,Asia,46,84,3864,2318.4,1545.6
+2024-10-16,C9317,Retail,Data Analytics,Mid,Asia,110,92,10120,5566,4554
+2023-06-15,C9837,Retail,Strategy,Senior,Middle East,151,158,23858,11929,11929
+2023-01-20,C2832,Technology,Digital Transformation,Mid,North America,99,140,13860,7623,6237
+2023-09-04,C2290,Finance,Audit,Junior,Africa,61,81,4941,2964.6,1976.4
+2023-05-09,C3103,Government,Audit,Mid,Asia,180,125,22500,12375,10125
+2024-06-24,C7932,Healthcare,Operations,Mid,Asia,196,117,22932,12612.6,10319.4
+2024-02-13,C7118,Energy,Operations,Principal,North America,71,357,25347,11406.15,13940.85
+2023-09-11,C4681,Finance,Digital Transformation,Junior,Africa,53,69,3657,2194.2,1462.8
+2024-07-21,C4770,Retail,Data Analytics,Junior,North America,137,77,10549,6329.4,4219.6
+2024-12-25,C1964,Healthcare,Strategy,Junior,Asia,130,76,9880,5928,3952
+2023-03-14,C9423,Healthcare,Digital Transformation,Principal,Europe,112,386,43232,19454.4,23777.6
+2024-07-06,C3167,Government,Operations,Principal,Europe,71,308,21868,9840.6,12027.4
+2024-04-29,C7669,Healthcare,Strategy,Junior,Middle East,127,81,10287,6172.2,4114.8
+2023-12-29,C7939,Energy,Audit,Junior,North America,71,61,4331,2598.6,1732.4
+2023-03-04,C7596,Government,Digital Transformation,Junior,Europe,122,86,10492,6295.2,4196.8
+2023-07-16,C4116,Retail,Audit,Mid,Middle East,196,91,17836,9809.8,8026.2
+2023-07-07,C5563,Energy,Data Analytics,Junior,Middle East,96,86,8256,4953.6,3302.4
+2024-07-17,C2604,Finance,Operations,Junior,North America,156,51,7956,4773.6,3182.4
+2023-08-31,C3724,Energy,Audit,Principal,Europe,192,287,55104,24796.8,30307.2
+2024-02-15,C1960,Healthcare,Audit,Junior,Middle East,33,54,1782,1069.2,712.8
+2023-09-29,C8454,Technology,Audit,Principal,Europe,153,319,48807,21963.15,26843.85
+2023-07-14,C5861,Healthcare,Strategy,Junior,Asia,102,52,5304,3182.4,2121.6
+2023-02-28,C1821,Retail,Audit,Mid,North America,99,108,10692,5880.6,4811.4
+2024-06-04,C2312,Healthcare,Strategy,Junior,Europe,61,82,5002,3001.2,2000.8
+2024-02-18,C2964,Retail,Data Analytics,Junior,Africa,113,50,5650,3390,2260
+2023-03-25,C7868,Government,Operations,Senior,Asia,108,165,17820,8910,8910
+2023-07-29,C6147,Healthcare,Digital Transformation,Principal,Europe,121,389,47069,21181.05,25887.95
+2024-11-18,C5915,Energy,Digital Transformation,Junior,North America,46,81,3726,2235.6,1490.4
+2024-04-14,C2638,Finance,Operations,Mid,Africa,156,92,14352,7893.6,6458.4
+2023-09-29,C3170,Technology,Strategy,Mid,Asia,129,113,14577,8017.35,6559.65
+2023-10-19,C3584,Energy,Operations,Senior,Africa,173,233,40309,20154.5,20154.5
+2024-10-31,C9666,Finance,Operations,Senior,North America,108,167,18036,9018,9018
+2023-05-18,C5333,Finance,Strategy,Mid,Asia,119,91,10829,5955.95,4873.05
+2023-10-16,C4450,Government,Digital Transformation,Mid,Asia,42,110,4620,2541,2079
+2024-06-01,C9004,Technology,Strategy,Junior,Middle East,137,57,7809,4685.4,3123.6
+2023-10-11,C1722,Finance,Digital Transformation,Mid,Asia,137,137,18769,10322.95,8446.05
+2023-06-15,C8239,Retail,Audit,Junior,North America,128,71,9088,5452.8,3635.2
+2023-03-19,C3442,Retail,Strategy,Senior,Africa,118,176,20768,10384,10384
+2024-07-19,C3426,Energy,Data Analytics,Junior,Asia,39,82,3198,1918.8,1279.2
+2024-01-09,C1653,Technology,Data Analytics,Mid,North America,57,93,5301,2915.55,2385.45
+2023-12-29,C7658,Retail,Data Analytics,Mid,Europe,26,119,3094,1701.7,1392.3
+2023-07-01,C7755,Finance,Data Analytics,Senior,Middle East,126,186,23436,11718,11718
+2024-11-16,C5065,Technology,Data Analytics,Junior,Middle East,102,80,8160,4896,3264
+2023-02-09,C8711,Healthcare,Data Analytics,Principal,Asia,169,377,63713,28670.85,35042.15
+2023-11-09,C4728,Healthcare,Strategy,Mid,Middle East,27,131,3537,1945.35,1591.65
+2023-12-03,C5564,Finance,Digital Transformation,Senior,Africa,67,195,13065,6532.5,6532.5
+2024-02-14,C9785,Technology,Strategy,Junior,Asia,123,81,9963,5977.8,3985.2
+2023-07-02,C5349,Finance,Strategy,Principal,Asia,164,353,57892,26051.4,31840.6
+2023-11-18,C8149,Retail,Operations,Junior,Middle East,170,58,9860,5916,3944
+2024-08-13,C4114,Technology,Strategy,Principal,North America,179,262,46898,21104.1,25793.9
+2024-06-16,C9821,Government,Data Analytics,Senior,Middle East,69,185,12765,6382.5,6382.5
+2023-03-13,C6409,Retail,Digital Transformation,Junior,Asia,74,57,4218,2530.8,1687.2
+2024-06-03,C6067,Government,Audit,Senior,Middle East,124,241,29884,14942,14942
+2024-12-14,C5844,Retail,Data Analytics,Mid,Middle East,75,112,8400,4620,3780
+2024-11-11,C7211,Government,Data Analytics,Senior,Middle East,60,212,12720,6360,6360
+2024-07-15,C1006,Technology,Digital Transformation,Mid,Middle East,159,138,21942,12068.1,9873.9
+2024-08-16,C6279,Energy,Audit,Principal,Europe,24,302,7248,3261.6,3986.4
+2024-06-07,C8752,Government,Data Analytics,Junior,Asia,69,54,3726,2235.6,1490.4
+2024-06-11,C6491,Finance,Data Analytics,Senior,Europe,118,243,28674,14337,14337
+2023-07-23,C3414,Finance,Strategy,Mid,Middle East,108,141,15228,8375.4,6852.6
+2024-09-17,C2193,Energy,Audit,Mid,Middle East,123,108,13284,7306.2,5977.8
+2024-05-21,C7547,Healthcare,Data Analytics,Junior,North America,72,68,4896,2937.6,1958.4
+2024-03-11,C4585,Healthcare,Operations,Principal,North America,126,378,47628,21432.6,26195.4
+2024-07-24,C5082,Finance,Audit,Mid,Middle East,67,136,9112,5011.6,4100.4
+2024-11-14,C9702,Retail,Operations,Senior,Middle East,135,150,20250,10125,10125
+2024-09-19,C9270,Energy,Operations,Principal,Europe,198,342,67716,30472.2,37243.8
+2024-05-01,C8373,Technology,Data Analytics,Senior,Africa,85,200,17000,8500,8500
+2024-05-11,C4919,Technology,Audit,Junior,Asia,194,78,15132,9079.2,6052.8
+2023-08-29,C5451,Technology,Digital Transformation,Junior,Europe,56,79,4424,2654.4,1769.6
+2023-06-04,C4788,Energy,Data Analytics,Mid,North America,185,128,23680,13024,10656
+2024-02-29,C7678,Technology,Operations,Principal,Middle East,110,318,34980,15741,19239
+2023-03-05,C4388,Energy,Audit,Junior,Africa,109,83,9047,5428.2,3618.8
+2024-01-25,C8814,Finance,Digital Transformation,Senior,Middle East,156,218,34008,17004,17004
+2024-03-05,C9818,Government,Operations,Mid,Middle East,25,105,2625,1443.75,1181.25
+2023-08-13,C5471,Energy,Audit,Junior,Middle East,169,76,12844,7706.4,5137.6
+2023-12-11,C7624,Government,Data Analytics,Principal,Europe,187,350,65450,29452.5,35997.5
+2024-09-29,C9751,Finance,Audit,Junior,North America,21,52,1092,655.2,436.8
+2024-10-20,C8022,Healthcare,Audit,Mid,North America,52,102,5304,2917.2,2386.8
+2023-09-24,C7211,Technology,Data Analytics,Principal,Asia,55,330,18150,8167.5,9982.5
+2023-12-12,C7211,Technology,Audit,Senior,North America,99,175,17325,8662.5,8662.5
+2024-04-26,C1317,Government,Operations,Junior,Asia,171,56,9576,5745.6,3830.4
+2023-08-18,C2124,Government,Strategy,Junior,Europe,84,78,6552,3931.2,2620.8
+2023-07-24,C1333,Retail,Data Analytics,Mid,Europe,173,126,21798,11988.9,9809.1
+2024-04-29,C2874,Retail,Data Analytics,Principal,Asia,45,286,12870,5791.5,7078.5
+2024-01-13,C3749,Retail,Operations,Junior,Europe,21,62,1302,781.2,520.8
+2023-11-15,C2771,Retail,Strategy,Senior,Africa,114,211,24054,12027,12027
+2024-11-24,C7149,Energy,Data Analytics,Junior,Africa,121,74,8954,5372.4,3581.6
+2024-12-08,C4978,Finance,Digital Transformation,Junior,Africa,186,85,15810,9486,6324
+2023-02-12,C6688,Retail,Audit,Senior,North America,85,177,15045,7522.5,7522.5
+2024-06-02,C6590,Finance,Audit,Principal,North America,61,366,22326,10046.7,12279.3
+2024-03-19,C6934,Government,Audit,Mid,Middle East,78,101,7878,4332.9,3545.1
+2023-06-30,C9548,Government,Digital Transformation,Principal,Middle East,62,288,17856,8035.2,9820.8
+2024-03-22,C5397,Technology,Data Analytics,Junior,Asia,118,88,10384,6230.4,4153.6
+2024-04-06,C4995,Energy,Operations,Principal,Asia,142,324,46008,20703.6,25304.4
+2023-01-30,C9098,Technology,Data Analytics,Principal,Europe,155,394,61070,27481.5,33588.5
+2023-12-30,C5232,Technology,Digital Transformation,Senior,Africa,16,191,3056,1528,1528
+2023-01-11,C9464,Healthcare,Strategy,Mid,Middle East,187,147,27489,15118.95,12370.05
+2024-05-15,C4937,Government,Audit,Principal,Middle East,38,385,14630,6583.5,8046.5
+2023-01-18,C2524,Technology,Data Analytics,Principal,Europe,118,320,37760,16992,20768
+2023-11-10,C7046,Energy,Operations,Senior,Middle East,54,219,11826,5913,5913
+2024-07-17,C6419,Technology,Audit,Senior,Asia,198,223,44154,22077,22077
+2023-09-15,C4777,Finance,Data Analytics,Senior,North America,28,194,5432,2716,2716
+2024-07-02,C4033,Healthcare,Data Analytics,Principal,Asia,135,310,41850,18832.5,23017.5
+2024-08-26,C9595,Retail,Digital Transformation,Junior,Europe,136,88,11968,7180.8,4787.2
+2023-10-31,C4727,Technology,Data Analytics,Senior,North America,199,182,36218,18109,18109
+2024-12-26,C9751,Healthcare,Digital Transformation,Junior,North America,143,81,11583,6949.8,4633.2
+2024-07-20,C5786,Government,Data Analytics,Principal,North America,158,396,62568,28155.6,34412.4
+2023-01-13,C5658,Energy,Audit,Principal,Asia,29,263,7627,3432.15,4194.85
+2023-07-08,C1841,Technology,Audit,Junior,North America,152,80,12160,7296,4864
+2024-02-15,C9056,Finance,Operations,Junior,Europe,12,65,780,468,312
+2023-06-02,C5978,Finance,Data Analytics,Junior,Africa,83,81,6723,4033.8,2689.2
+2024-03-02,C4697,Retail,Audit,Principal,Middle East,161,371,59731,26878.95,32852.05
+2023-11-01,C8025,Technology,Operations,Junior,Africa,101,85,8585,5151,3434
+2023-04-12,C4404,Government,Data Analytics,Senior,North America,187,190,35530,17765,17765
+2023-06-10,C4929,Healthcare,Operations,Junior,Europe,170,69,11730,7038,4692
+2023-01-03,C7693,Energy,Operations,Principal,Asia,55,364,20020,9009,11011
+2023-02-03,C4792,Technology,Digital Transformation,Principal,North America,56,305,17080,7686,9394
+2024-12-04,C4824,Technology,Operations,Mid,Middle East,39,144,5616,3088.8,2527.2
+2023-04-28,C9922,Healthcare,Data Analytics,Senior,Europe,74,198,14652,7326,7326
+2023-03-15,C1977,Healthcare,Digital Transformation,Senior,Middle East,94,235,22090,11045,11045
+2023-05-08,C8679,Government,Digital Transformation,Principal,Asia,36,354,12744,5734.8,7009.2
+2024-05-27,C9847,Energy,Audit,Junior,Africa,108,50,5400,3240,2160
+2023-02-10,C8078,Government,Digital Transformation,Senior,North America,104,152,15808,7904,7904
+2023-04-04,C4750,Government,Operations,Junior,Asia,62,86,5332,3199.2,2132.8
+2024-08-13,C1659,Healthcare,Audit,Principal,Asia,154,359,55286,24878.7,30407.3
+2023-07-05,C8141,Government,Audit,Junior,Middle East,10,62,620,372,248
+2023-12-23,C7690,Technology,Digital Transformation,Junior,Europe,41,83,3403,2041.8,1361.2
+2023-12-04,C7744,Government,Audit,Senior,Middle East,48,183,8784,4392,4392
+2024-07-17,C1601,Energy,Strategy,Senior,Asia,12,203,2436,1218,1218
+2023-11-28,C2899,Energy,Operations,Junior,Africa,66,66,4356,2613.6,1742.4
+2024-04-18,C7770,Finance,Data Analytics,Senior,Africa,151,200,30200,15100,15100
+2024-05-25,C8242,Finance,Data Analytics,Senior,Africa,175,199,34825,17412.5,17412.5
+2023-05-15,C5719,Energy,Audit,Junior,North America,91,79,7189,4313.4,2875.6
+2024-10-07,C4920,Government,Data Analytics,Senior,Africa,175,228,39900,19950,19950
+2023-01-15,C7684,Finance,Data Analytics,Junior,Middle East,115,66,7590,4554,3036
+2023-05-01,C3522,Energy,Digital Transformation,Senior,Middle East,147,166,24402,12201,12201
+2024-05-09,C8736,Healthcare,Audit,Mid,Middle East,78,95,7410,4075.5,3334.5
+2023-07-15,C9327,Government,Data Analytics,Junior,Asia,52,60,3120,1872,1248
+2024-02-29,C6568,Retail,Digital Transformation,Junior,Asia,104,60,6240,3744,2496
+2023-11-02,C9022,Healthcare,Audit,Principal,Asia,141,274,38634,17385.3,21248.7
+2023-12-07,C9903,Energy,Audit,Senior,Europe,105,242,25410,12705,12705
+2024-12-15,C4912,Retail,Audit,Mid,Middle East,131,110,14410,7925.5,6484.5
+2023-02-14,C6213,Government,Audit,Principal,Middle East,179,250,44750,20137.5,24612.5
+2024-11-10,C3492,Energy,Strategy,Mid,Africa,142,115,16330,8981.5,7348.5
+2024-08-27,C6439,Finance,Audit,Junior,Africa,186,63,11718,7030.8,4687.2
+2024-04-12,C1251,Government,Data Analytics,Principal,Europe,35,343,12005,5402.25,6602.75
+2023-03-18,C8692,Technology,Digital Transformation,Principal,North America,116,250,29000,13050,15950
+2023-12-03,C9742,Energy,Digital Transformation,Principal,Africa,17,296,5032,2264.4,2767.6
+2023-02-06,C2121,Healthcare,Digital Transformation,Mid,North America,136,103,14008,7704.4,6303.6
+2024-03-20,C2612,Government,Strategy,Principal,Europe,87,263,22881,10296.45,12584.55
+2024-12-11,C5906,Finance,Strategy,Senior,North America,196,172,33712,16856,16856
+2023-10-28,C6873,Technology,Audit,Mid,Europe,27,124,3348,1841.4,1506.6
+2024-06-27,C7751,Retail,Data Analytics,Mid,Europe,37,128,4736,2604.8,2131.2
+2023-03-22,C7267,Retail,Data Analytics,Principal,Africa,95,394,37430,16843.5,20586.5
+2023-05-27,C4804,Energy,Digital Transformation,Principal,Asia,22,387,8514,3831.3,4682.7
+2024-11-13,C1153,Energy,Digital Transformation,Mid,North America,76,136,10336,5684.8,4651.2
+2024-03-28,C6661,Retail,Digital Transformation,Principal,Asia,43,291,12513,5630.85,6882.15
+2024-04-12,C5949,Healthcare,Audit,Principal,North America,178,275,48950,22027.5,26922.5
+2023-08-31,C7248,Retail,Digital Transformation,Senior,Asia,73,205,14965,7482.5,7482.5
+2023-01-23,C7484,Technology,Strategy,Junior,Africa,118,55,6490,3894,2596
+2024-05-23,C5689,Healthcare,Operations,Senior,Europe,30,153,4590,2295,2295
+2024-10-13,C4115,Retail,Digital Transformation,Mid,North America,84,120,10080,5544,4536
+2024-10-04,C1645,Technology,Audit,Junior,Africa,146,52,7592,4555.2,3036.8
+2024-01-09,C3153,Finance,Digital Transformation,Senior,Middle East,45,155,6975,3487.5,3487.5
+2023-06-29,C4289,Healthcare,Operations,Senior,Africa,84,155,13020,6510,6510
+2024-05-28,C5465,Healthcare,Digital Transformation,Principal,Asia,122,311,37942,17073.9,20868.1
+2023-12-13,C2886,Energy,Strategy,Mid,Europe,194,104,20176,11096.8,9079.2
+2024-11-23,C7511,Retail,Digital Transformation,Junior,Middle East,35,54,1890,1134,756
+2023-01-15,C5332,Retail,Strategy,Principal,Asia,77,269,20713,9320.85,11392.15
+2024-11-19,C5295,Retail,Audit,Senior,North America,122,150,18300,9150,9150
+2024-11-22,C4830,Energy,Strategy,Senior,Africa,151,160,24160,12080,12080
+2023-08-15,C2035,Government,Audit,Senior,Middle East,86,155,13330,6665,6665
+2023-04-30,C3290,Finance,Strategy,Senior,Middle East,14,193,2702,1351,1351
+2023-04-29,C2592,Healthcare,Operations,Mid,Middle East,22,91,2002,1101.1,900.9
+2024-04-09,C7078,Government,Operations,Principal,Africa,72,258,18576,8359.2,10216.8
+2023-06-08,C7797,Government,Strategy,Principal,Africa,152,343,52136,23461.2,28674.8
+2024-02-22,C5583,Finance,Digital Transformation,Mid,Middle East,104,149,15496,8522.8,6973.2
+2024-03-31,C4868,Technology,Strategy,Senior,Africa,126,183,23058,11529,11529
+2024-10-22,C6876,Finance,Audit,Senior,Europe,44,213,9372,4686,4686
+2023-05-06,C8450,Finance,Data Analytics,Junior,North America,69,78,5382,3229.2,2152.8
+2023-12-08,C4990,Healthcare,Operations,Mid,North America,23,124,2852,1568.6,1283.4
+2024-07-21,C4394,Retail,Data Analytics,Mid,Asia,92,115,10580,5819,4761
+2023-06-01,C1046,Technology,Data Analytics,Mid,Africa,98,107,10486,5767.3,4718.7
+2023-09-14,C3858,Finance,Strategy,Mid,North America,48,103,4944,2719.2,2224.8
+2024-01-02,C4898,Retail,Digital Transformation,Junior,Europe,175,82,14350,8610,5740
+2023-09-29,C1858,Healthcare,Audit,Junior,North America,162,66,10692,6415.2,4276.8
+2024-05-02,C8344,Technology,Operations,Junior,Middle East,113,89,10057,6034.2,4022.8
+2024-05-30,C4629,Retail,Strategy,Senior,Middle East,76,221,16796,8398,8398
+2024-10-20,C1510,Finance,Audit,Principal,Middle East,24,287,6888,3099.6,3788.4
+2024-12-03,C2768,Energy,Audit,Junior,North America,194,82,15908,9544.8,6363.2
+2023-11-26,C3430,Finance,Data Analytics,Senior,Africa,95,154,14630,7315,7315
+2024-10-10,C9984,Government,Digital Transformation,Principal,Africa,83,390,32370,14566.5,17803.5
+2024-06-27,C5831,Energy,Operations,Principal,North America,168,264,44352,19958.4,24393.6
+2024-12-19,C2874,Government,Operations,Mid,Middle East,166,94,15604,8582.2,7021.8
+2024-04-07,C4743,Energy,Digital Transformation,Principal,Middle East,77,344,26488,11919.6,14568.4
+2024-03-01,C2557,Technology,Audit,Senior,Asia,124,175,21700,10850,10850
+2024-01-19,C3500,Government,Audit,Junior,North America,36,54,1944,1166.4,777.6
+2023-03-29,C2527,Energy,Strategy,Senior,Europe,113,221,24973,12486.5,12486.5
+2024-07-23,C1982,Retail,Operations,Senior,North America,56,161,9016,4508,4508
+2024-02-25,C6793,Government,Audit,Junior,Asia,113,67,7571,4542.6,3028.4
+2024-09-06,C6119,Technology,Strategy,Mid,Europe,113,133,15029,8265.95,6763.05
+2024-11-03,C8900,Healthcare,Strategy,Senior,Africa,142,241,34222,17111,17111
+2024-01-12,C2882,Technology,Operations,Mid,Middle East,131,143,18733,10303.15,8429.85
+2024-07-28,C1430,Retail,Digital Transformation,Junior,Europe,49,71,3479,2087.4,1391.6
+2023-10-07,C6062,Technology,Digital Transformation,Junior,Europe,55,86,4730,2838,1892
+2023-05-27,C7566,Finance,Data Analytics,Junior,North America,173,72,12456,7473.6,4982.4
+2024-06-27,C4524,Energy,Audit,Principal,Asia,191,302,57682,25956.9,31725.1
+2023-06-11,C7062,Technology,Digital Transformation,Junior,North America,146,59,8614,5168.4,3445.6
+2023-06-09,C3579,Retail,Strategy,Junior,Asia,163,84,13692,8215.2,5476.8
+2024-03-29,C7947,Energy,Operations,Principal,Middle East,84,340,28560,12852,15708
+2023-10-07,C4531,Retail,Strategy,Senior,Middle East,26,220,5720,2860,2860
+2023-04-24,C5640,Government,Operations,Principal,Africa,170,363,61710,27769.5,33940.5
+2024-11-14,C6053,Finance,Data Analytics,Principal,Africa,58,354,20532,9239.4,11292.6
+2023-02-26,C1125,Healthcare,Digital Transformation,Mid,Europe,186,143,26598,14628.9,11969.1
+2023-09-19,C5742,Technology,Strategy,Junior,Middle East,198,89,17622,10573.2,7048.8
+2024-03-16,C3878,Healthcare,Audit,Mid,Africa,150,112,16800,9240,7560
+2024-07-26,C6802,Finance,Audit,Junior,Middle East,193,68,13124,7874.4,5249.6
+2023-01-20,C8532,Finance,Digital Transformation,Principal,Africa,58,268,15544,6994.8,8549.2
+2024-02-19,C7843,Technology,Strategy,Principal,North America,27,362,9774,4398.3,5375.7
+2023-11-29,C3815,Retail,Audit,Senior,North America,123,200,24600,12300,12300
+2024-03-23,C2734,Healthcare,Audit,Principal,Africa,141,304,42864,19288.8,23575.2
+2023-03-22,C7484,Technology,Digital Transformation,Mid,Asia,112,121,13552,7453.6,6098.4
+2023-06-22,C2251,Retail,Strategy,Mid,Asia,171,112,19152,10533.6,8618.4
+2023-12-26,C3419,Healthcare,Strategy,Mid,Asia,187,118,22066,12136.3,9929.7
+2023-07-22,C3842,Retail,Data Analytics,Junior,Europe,66,52,3432,2059.2,1372.8
+2024-10-05,C9095,Energy,Operations,Principal,Africa,63,346,21798,9809.1,11988.9
+2024-10-20,C6295,Government,Digital Transformation,Mid,Middle East,101,123,12423,6832.65,5590.35
+2023-03-11,C8682,Energy,Digital Transformation,Senior,Africa,97,195,18915,9457.5,9457.5
+2023-02-27,C6766,Retail,Strategy,Senior,Middle East,174,244,42456,21228,21228
+2024-04-07,C1616,Finance,Digital Transformation,Senior,North America,185,223,41255,20627.5,20627.5
+2024-10-22,C2479,Retail,Operations,Principal,Middle East,170,361,61370,27616.5,33753.5
+2024-08-17,C1672,Energy,Operations,Mid,Asia,134,125,16750,9212.5,7537.5
+2024-09-11,C8792,Retail,Data Analytics,Junior,Middle East,11,50,550,330,220
+2023-04-16,C6626,Government,Strategy,Mid,North America,20,92,1840,1012,828
+2023-09-11,C8172,Energy,Operations,Mid,Asia,149,94,14006,7703.3,6302.7
+2024-01-17,C5634,Energy,Audit,Senior,Africa,62,235,14570,7285,7285
+2023-02-23,C6482,Finance,Digital Transformation,Junior,Africa,33,66,2178,1306.8,871.2
+2024-11-25,C7333,Technology,Digital Transformation,Mid,Asia,68,121,8228,4525.4,3702.6
+2023-03-25,C3317,Technology,Digital Transformation,Principal,Europe,124,289,35836,16126.2,19709.8
+2024-09-01,C2388,Technology,Operations,Principal,Asia,34,253,8602,3870.9,4731.1
+2023-05-11,C9624,Finance,Audit,Senior,North America,163,247,40261,20130.5,20130.5
+2024-01-07,C6060,Healthcare,Data Analytics,Senior,Middle East,84,234,19656,9828,9828
+2023-07-16,C4711,Healthcare,Data Analytics,Junior,Asia,109,87,9483,5689.8,3793.2
+2023-04-14,C9317,Retail,Operations,Junior,Asia,85,72,6120,3672,2448
+2024-09-24,C3147,Retail,Audit,Mid,Europe,66,95,6270,3448.5,2821.5
+2023-07-05,C3712,Government,Audit,Junior,Middle East,21,56,1176,705.6,470.4
+2024-01-09,C4891,Energy,Operations,Senior,Middle East,163,211,34393,17196.5,17196.5
+2023-08-28,C9749,Healthcare,Digital Transformation,Principal,Europe,55,356,19580,8811,10769
+2024-01-12,C8218,Energy,Digital Transformation,Principal,Africa,60,278,16680,7506,9174
+2024-06-24,C7859,Healthcare,Data Analytics,Mid,Asia,158,129,20382,11210.1,9171.9
+2023-02-23,C8873,Technology,Operations,Junior,Africa,196,88,17248,10348.8,6899.2
+2023-05-08,C5670,Finance,Data Analytics,Senior,Middle East,107,171,18297,9148.5,9148.5
+2024-06-09,C3414,Energy,Strategy,Mid,Middle East,65,147,9555,5255.25,4299.75
+2023-12-24,C1436,Energy,Strategy,Principal,Africa,90,322,28980,13041,15939
+2024-01-18,C4862,Energy,Strategy,Senior,Europe,49,238,11662,5831,5831
+2023-01-29,C6221,Finance,Digital Transformation,Mid,Europe,180,131,23580,12969,10611
+2023-02-09,C5700,Energy,Data Analytics,Principal,Middle East,44,351,15444,6949.8,8494.2
+2024-09-22,C1086,Finance,Strategy,Senior,Europe,107,193,20651,10325.5,10325.5
+2023-06-03,C9991,Government,Operations,Principal,North America,198,304,60192,27086.4,33105.6
+2023-10-23,C4893,Technology,Strategy,Junior,Europe,56,61,3416,2049.6,1366.4
+2024-03-05,C8489,Finance,Strategy,Principal,Africa,17,367,6239,2807.55,3431.45
+2024-07-02,C1269,Government,Operations,Mid,Europe,34,114,3876,2131.8,1744.2
+2023-10-26,C8032,Finance,Operations,Senior,Europe,68,175,11900,5950,5950
+2024-08-07,C7825,Healthcare,Strategy,Senior,North America,41,220,9020,4510,4510
+2024-06-22,C9914,Retail,Operations,Junior,Middle East,160,75,12000,7200,4800
+2024-04-26,C1713,Government,Audit,Senior,Asia,23,156,3588,1794,1794
+2023-01-17,C6850,Finance,Digital Transformation,Mid,North America,124,139,17236,9479.8,7756.2
+2024-08-18,C6447,Healthcare,Strategy,Senior,Africa,125,167,20875,10437.5,10437.5
+2023-12-13,C3868,Government,Audit,Principal,Europe,26,357,9282,4176.9,5105.1
+2023-05-19,C2033,Government,Audit,Junior,Asia,197,83,16351,9810.6,6540.4
+2023-07-26,C1717,Healthcare,Strategy,Senior,Asia,48,153,7344,3672,3672
+2024-06-11,C7524,Retail,Audit,Senior,North America,162,182,29484,14742,14742
+2024-10-24,C4131,Technology,Digital Transformation,Junior,Asia,179,51,9129,5477.4,3651.6
+2023-10-07,C3039,Technology,Audit,Principal,Middle East,167,345,57615,25926.75,31688.25
+2024-01-31,C6554,Healthcare,Audit,Principal,Asia,132,311,41052,18473.4,22578.6
+2024-06-15,C5369,Finance,Audit,Junior,Middle East,194,65,12610,7566,5044
+2024-09-08,C3956,Retail,Digital Transformation,Senior,North America,93,243,22599,11299.5,11299.5
+2023-03-23,C6372,Government,Digital Transformation,Senior,Middle East,182,179,32578,16289,16289
+2024-09-09,C7981,Healthcare,Audit,Senior,Middle East,155,197,30535,15267.5,15267.5
+2023-02-13,C6776,Retail,Audit,Senior,North America,152,161,24472,12236,12236
+2023-03-18,C7655,Technology,Operations,Mid,North America,70,132,9240,5082,4158
+2023-05-27,C8179,Finance,Data Analytics,Junior,Europe,193,73,14089,8453.4,5635.6
+2024-10-22,C7001,Technology,Audit,Junior,Africa,162,56,9072,5443.2,3628.8
+2023-06-07,C8371,Technology,Digital Transformation,Principal,North America,81,303,24543,11044.35,13498.65
+2024-08-10,C3255,Retail,Digital Transformation,Principal,Asia,126,306,38556,17350.2,21205.8
+2024-10-27,C5566,Healthcare,Strategy,Junior,Europe,178,52,9256,5553.6,3702.4
+2024-05-26,C9482,Energy,Operations,Junior,Asia,14,72,1008,604.8,403.2
+2023-09-24,C8311,Healthcare,Operations,Senior,Middle East,29,231,6699,3349.5,3349.5
+2023-07-24,C3009,Healthcare,Strategy,Principal,Europe,154,262,40348,18156.6,22191.4
+2024-12-31,C8292,Finance,Digital Transformation,Senior,North America,129,217,27993,13996.5,13996.5
+2024-07-17,C9882,Technology,Digital Transformation,Mid,Europe,110,100,11000,6050,4950
+2024-01-06,C9335,Healthcare,Strategy,Mid,Europe,132,118,15576,8566.8,7009.2
+2023-08-31,C9094,Finance,Digital Transformation,Senior,Middle East,179,189,33831,16915.5,16915.5
+2024-07-18,C3126,Retail,Strategy,Junior,Asia,14,60,840,504,336
+2024-02-12,C8842,Retail,Audit,Principal,Africa,47,339,15933,7169.85,8763.15
+2023-03-17,C3053,Technology,Strategy,Principal,Middle East,155,277,42935,19320.75,23614.25
+2024-11-27,C9476,Technology,Data Analytics,Mid,Europe,90,134,12060,6633,5427
+2024-03-19,C9238,Finance,Strategy,Mid,Asia,102,145,14790,8134.5,6655.5
+2023-06-18,C3653,Technology,Data Analytics,Senior,Africa,49,182,8918,4459,4459
+2023-10-18,C2292,Technology,Data Analytics,Senior,Europe,156,241,37596,18798,18798
+2024-10-02,C5961,Retail,Operations,Junior,Africa,68,62,4216,2529.6,1686.4
+2024-10-18,C3762,Retail,Operations,Mid,Europe,190,116,22040,12122,9918
+2024-11-05,C6531,Retail,Strategy,Junior,North America,142,80,11360,6816,4544
+2023-02-16,C5336,Government,Data Analytics,Principal,Africa,169,331,55939,25172.55,30766.45
+2024-10-16,C1496,Energy,Operations,Senior,Asia,109,226,24634,12317,12317
+2024-05-09,C5012,Government,Audit,Senior,Middle East,48,162,7776,3888,3888
+2023-03-16,C1981,Healthcare,Audit,Principal,Middle East,164,347,56908,25608.6,31299.4
+2024-04-20,C4342,Technology,Operations,Mid,Asia,197,134,26398,14518.9,11879.1
+2023-11-23,C6658,Energy,Data Analytics,Senior,Africa,167,245,40915,20457.5,20457.5
+2024-07-29,C2739,Technology,Data Analytics,Principal,North America,165,271,44715,20121.75,24593.25
+2023-10-01,C8366,Healthcare,Data Analytics,Junior,North America,157,81,12717,7630.2,5086.8
+2023-10-25,C7293,Retail,Audit,Mid,Europe,21,106,2226,1224.3,1001.7
+2023-12-02,C6123,Healthcare,Data Analytics,Principal,Africa,31,299,9269,4171.05,5097.95
+2024-04-23,C9171,Technology,Audit,Junior,North America,23,78,1794,1076.4,717.6
+2024-02-07,C9281,Energy,Data Analytics,Mid,Africa,16,100,1600,880,720
+2023-12-28,C1797,Finance,Digital Transformation,Principal,Africa,120,307,36840,16578,20262
+2024-10-31,C8710,Technology,Operations,Junior,North America,35,83,2905,1743,1162
+2024-03-17,C3194,Technology,Digital Transformation,Principal,Asia,13,288,3744,1684.8,2059.2
+2023-02-16,C7563,Finance,Operations,Mid,Asia,24,118,2832,1557.6,1274.4
+2024-07-20,C5728,Finance,Audit,Principal,Africa,41,333,13653,6143.85,7509.15
+2023-10-14,C2946,Healthcare,Strategy,Principal,Asia,31,330,10230,4603.5,5626.5
+2023-12-14,C6990,Healthcare,Data Analytics,Principal,Africa,135,296,39960,17982,21978
+2023-02-11,C1742,Finance,Data Analytics,Senior,Middle East,110,168,18480,9240,9240
+2024-06-15,C8487,Healthcare,Operations,Mid,Asia,10,104,1040,572,468
+2024-09-19,C6218,Healthcare,Audit,Senior,Africa,34,167,5678,2839,2839
+2023-12-11,C9311,Retail,Operations,Principal,Africa,36,394,14184,6382.8,7801.2
+2023-11-03,C8780,Finance,Digital Transformation,Senior,North America,102,176,17952,8976,8976
+2024-03-02,C6040,Government,Strategy,Principal,Asia,140,273,38220,17199,21021
+2024-11-02,C4728,Government,Strategy,Principal,Europe,69,264,18216,8197.2,10018.8
+2024-06-20,C7229,Healthcare,Data Analytics,Junior,Africa,162,79,12798,7678.8,5119.2
+2024-12-18,C2800,Healthcare,Strategy,Principal,Asia,135,312,42120,18954,23166
+2024-03-04,C3481,Energy,Data Analytics,Principal,Africa,126,388,48888,21999.6,26888.4
+2024-09-18,C8726,Government,Strategy,Mid,Africa,73,106,7738,4255.9,3482.1
+2023-08-01,C6325,Government,Audit,Principal,Asia,27,281,7587,3414.15,4172.85
+2023-06-27,C8531,Retail,Digital Transformation,Senior,Asia,20,190,3800,1900,1900
+2024-09-16,C8932,Healthcare,Data Analytics,Senior,Africa,20,237,4740,2370,2370
+2023-11-02,C4684,Technology,Digital Transformation,Mid,Middle East,154,146,22484,12366.2,10117.8
+2023-11-21,C8861,Technology,Operations,Senior,Asia,63,169,10647,5323.5,5323.5
+2023-05-05,C9899,Energy,Audit,Senior,Europe,11,226,2486,1243,1243
+2023-10-25,C1689,Technology,Strategy,Senior,Middle East,125,215,26875,13437.5,13437.5
+2024-11-02,C5201,Government,Audit,Mid,Europe,99,123,12177,6697.35,5479.65
+2024-07-05,C5442,Retail,Digital Transformation,Mid,North America,113,92,10396,5717.8,4678.2
+2024-09-22,C4920,Healthcare,Strategy,Mid,Europe,15,128,1920,1056,864
+2023-02-23,C2641,Energy,Digital Transformation,Principal,North America,123,341,41943,18874.35,23068.65
+2024-11-28,C3252,Finance,Operations,Mid,Middle East,71,136,9656,5310.8,4345.2
+2024-10-30,C8793,Energy,Data Analytics,Senior,Asia,141,171,24111,12055.5,12055.5
+2023-10-20,C1969,Finance,Operations,Mid,Africa,12,100,1200,660,540
+2023-02-08,C3868,Energy,Data Analytics,Junior,Middle East,96,61,5856,3513.6,2342.4
+2024-05-22,C4052,Government,Digital Transformation,Junior,North America,131,68,8908,5344.8,3563.2
+2023-11-02,C2758,Technology,Digital Transformation,Principal,Africa,128,331,42368,19065.6,23302.4
+2024-06-20,C9092,Healthcare,Operations,Principal,Asia,155,345,53475,24063.75,29411.25
+2023-07-17,C2845,Technology,Data Analytics,Principal,Asia,65,284,18460,8307,10153
+2023-07-10,C1230,Government,Digital Transformation,Senior,Africa,198,212,41976,20988,20988
+2024-11-21,C4164,Healthcare,Operations,Principal,Middle East,144,273,39312,17690.4,21621.6
+2024-06-11,C6372,Finance,Audit,Junior,Europe,157,86,13502,8101.2,5400.8
+2023-05-24,C8822,Technology,Data Analytics,Junior,Asia,135,69,9315,5589,3726
+2024-01-28,C4858,Energy,Digital Transformation,Senior,Asia,186,185,34410,17205,17205
+2024-08-19,C1187,Technology,Digital Transformation,Mid,North America,107,91,9737,5355.35,4381.65
+2024-11-14,C2936,Energy,Digital Transformation,Mid,Middle East,48,92,4416,2428.8,1987.2
+2024-12-03,C9233,Government,Digital Transformation,Junior,Asia,30,64,1920,1152,768
+2024-01-12,C4618,Healthcare,Data Analytics,Principal,Europe,17,336,5712,2570.4,3141.6
+2024-04-10,C7121,Energy,Operations,Principal,Africa,51,368,18768,8445.6,10322.4
+2024-11-11,C4578,Healthcare,Operations,Junior,Africa,46,54,2484,1490.4,993.6
+2024-04-02,C9653,Government,Digital Transformation,Junior,Africa,69,63,4347,2608.2,1738.8
+2023-04-25,C2011,Retail,Operations,Mid,Africa,139,95,13205,7262.75,5942.25
+2024-07-03,C3455,Healthcare,Digital Transformation,Principal,North America,98,254,24892,11201.4,13690.6
+2024-11-27,C4365,Government,Operations,Principal,North America,177,294,52038,23417.1,28620.9
+2024-06-06,C8298,Finance,Audit,Mid,Africa,160,100,16000,8800,7200
+2024-03-01,C8484,Retail,Strategy,Principal,Asia,23,259,5957,2680.65,3276.35
+2023-01-23,C7487,Technology,Strategy,Mid,Africa,85,130,11050,6077.5,4972.5
+2023-03-16,C1742,Energy,Digital Transformation,Junior,Africa,29,57,1653,991.8,661.2
+2023-03-03,C2130,Energy,Strategy,Senior,Middle East,66,186,12276,6138,6138
+2023-07-04,C3218,Government,Audit,Senior,Middle East,129,228,29412,14706,14706
+2024-04-04,C7184,Energy,Strategy,Mid,Asia,117,139,16263,8944.65,7318.35
+2023-05-02,C3924,Retail,Audit,Mid,Europe,46,115,5290,2909.5,2380.5
+2023-01-04,C1372,Technology,Audit,Principal,Africa,128,318,40704,18316.8,22387.2
+2024-01-24,C4762,Healthcare,Audit,Senior,Europe,170,169,28730,14365,14365
+2023-10-10,C4088,Government,Strategy,Junior,Middle East,135,83,11205,6723,4482
+2024-09-21,C1256,Healthcare,Data Analytics,Junior,North America,194,88,17072,10243.2,6828.8
+2024-08-31,C1550,Energy,Operations,Junior,Europe,93,72,6696,4017.6,2678.4
+2023-02-15,C7590,Energy,Data Analytics,Mid,North America,187,139,25993,14296.15,11696.85
+2023-05-24,C9255,Technology,Data Analytics,Senior,Africa,17,154,2618,1309,1309
+2024-09-04,C6253,Healthcare,Digital Transformation,Mid,Africa,184,90,16560,9108,7452
+2023-08-15,C7775,Technology,Digital Transformation,Junior,Africa,180,59,10620,6372,4248
+2024-08-28,C3869,Government,Audit,Principal,North America,35,321,11235,5055.75,6179.25
+2023-12-19,C7244,Retail,Digital Transformation,Principal,Middle East,98,396,38808,17463.6,21344.4
+2023-06-02,C5913,Energy,Data Analytics,Principal,Europe,40,297,11880,5346,6534
+2023-08-19,C5927,Government,Data Analytics,Principal,North America,78,312,24336,10951.2,13384.8
+2024-07-29,C7761,Energy,Operations,Mid,Middle East,82,130,10660,5863,4797
+2023-09-06,C5177,Healthcare,Digital Transformation,Junior,Middle East,82,62,5084,3050.4,2033.6
+2024-01-15,C2514,Retail,Data Analytics,Junior,Asia,107,87,9309,5585.4,3723.6
+2024-01-22,C1647,Finance,Data Analytics,Mid,Middle East,28,123,3444,1894.2,1549.8
+2023-08-02,C6455,Technology,Strategy,Mid,Europe,32,134,4288,2358.4,1929.6
+2023-05-01,C8846,Healthcare,Operations,Mid,Middle East,97,114,11058,6081.9,4976.1
+2023-09-03,C6269,Technology,Audit,Principal,Africa,74,392,29008,13053.6,15954.4
+2024-10-26,C6886,Technology,Digital Transformation,Senior,Africa,158,242,38236,19118,19118
+2024-05-24,C8635,Finance,Audit,Senior,Europe,44,160,7040,3520,3520
+2024-01-15,C6126,Energy,Strategy,Mid,Europe,119,99,11781,6479.55,5301.45
+2023-01-17,C5272,Retail,Operations,Principal,Asia,12,297,3564,1603.8,1960.2
+2023-06-06,C4214,Technology,Data Analytics,Principal,Africa,165,261,43065,19379.25,23685.75
+2023-09-09,C9180,Retail,Digital Transformation,Senior,Middle East,142,186,26412,13206,13206
+2024-10-19,C9037,Energy,Data Analytics,Senior,Europe,24,195,4680,2340,2340
+2023-05-24,C9954,Energy,Data Analytics,Junior,Africa,132,70,9240,5544,3696
+2023-02-04,C2217,Government,Strategy,Junior,Middle East,126,64,8064,4838.4,3225.6
+2023-05-21,C4791,Finance,Data Analytics,Junior,Europe,24,53,1272,763.2,508.8
+2024-06-01,C8471,Technology,Strategy,Principal,Middle East,43,276,11868,5340.6,6527.4
+2023-01-17,C1108,Retail,Operations,Principal,North America,166,393,65238,29357.1,35880.9
+2023-01-18,C9673,Government,Digital Transformation,Senior,North America,115,167,19205,9602.5,9602.5
+2024-05-29,C8054,Healthcare,Strategy,Junior,Africa,186,62,11532,6919.2,4612.8
+2023-06-02,C4948,Healthcare,Operations,Senior,Asia,103,244,25132,12566,12566
+2023-10-01,C7502,Finance,Digital Transformation,Principal,Middle East,83,320,26560,11952,14608
+2024-08-01,C4984,Government,Data Analytics,Senior,North America,65,217,14105,7052.5,7052.5
+2024-10-31,C1519,Finance,Audit,Principal,Middle East,16,355,5680,2556,3124
+2024-07-19,C8798,Finance,Strategy,Mid,North America,56,144,8064,4435.2,3628.8
+2024-05-26,C8109,Government,Digital Transformation,Junior,Africa,30,71,2130,1278,852
+2023-02-13,C4764,Healthcare,Operations,Principal,Asia,18,371,6678,3005.1,3672.9
+2023-02-17,C2218,Government,Digital Transformation,Junior,Europe,130,57,7410,4446,2964
+2023-11-19,C1256,Healthcare,Operations,Mid,Middle East,163,126,20538,11295.9,9242.1
+2023-03-20,C5903,Healthcare,Operations,Mid,Africa,161,125,20125,11068.75,9056.25
+2024-02-03,C9856,Technology,Audit,Mid,North America,155,125,19375,10656.25,8718.75
+2024-05-27,C6666,Finance,Strategy,Principal,Europe,184,368,67712,30470.4,37241.6
+2023-03-19,C6580,Retail,Operations,Principal,Asia,158,286,45188,20334.6,24853.4
+2023-01-31,C5478,Energy,Audit,Mid,Asia,152,117,17784,9781.2,8002.8
+2024-07-20,C7150,Energy,Data Analytics,Principal,North America,147,251,36897,16603.65,20293.35
+2024-09-25,C5839,Healthcare,Strategy,Junior,Asia,73,84,6132,3679.2,2452.8
+2023-06-07,C7225,Government,Data Analytics,Principal,Asia,76,273,20748,9336.6,11411.4
+2024-01-05,C2745,Finance,Strategy,Senior,Middle East,197,239,47083,23541.5,23541.5
+2024-01-04,C5419,Finance,Data Analytics,Junior,Europe,51,81,4131,2478.6,1652.4
+2024-03-17,C8353,Retail,Operations,Principal,North America,173,346,59858,26936.1,32921.9
+2023-01-27,C2468,Technology,Operations,Junior,Africa,132,55,7260,4356,2904
+2024-09-04,C6315,Energy,Strategy,Senior,Middle East,58,154,8932,4466,4466
+2024-02-02,C2387,Government,Operations,Mid,Africa,169,97,16393,9016.15,7376.85
+2024-06-17,C3778,Government,Audit,Mid,Europe,76,111,8436,4639.8,3796.2
+2023-10-03,C5933,Technology,Audit,Mid,North America,181,127,22987,12642.85,10344.15
+2023-06-21,C8121,Technology,Audit,Senior,Middle East,107,157,16799,8399.5,8399.5
+2023-03-20,C6916,Technology,Data Analytics,Principal,Africa,53,280,14840,6678,8162
+2024-09-23,C4203,Energy,Strategy,Mid,Asia,56,131,7336,4034.8,3301.2
+2023-01-07,C7483,Technology,Operations,Principal,Asia,64,393,25152,11318.4,13833.6
+2024-03-26,C6484,Energy,Operations,Mid,Asia,149,109,16241,8932.55,7308.45
+2023-11-25,C4290,Energy,Digital Transformation,Mid,Middle East,39,117,4563,2509.65,2053.35
+2023-11-23,C5775,Government,Audit,Mid,Asia,117,146,17082,9395.1,7686.9
+2024-01-21,C5592,Energy,Digital Transformation,Junior,Africa,93,55,5115,3069,2046
+2023-07-24,C9939,Healthcare,Operations,Junior,Middle East,170,65,11050,6630,4420
+2024-12-26,C4434,Energy,Digital Transformation,Junior,Middle East,45,82,3690,2214,1476
+2024-11-20,C9180,Healthcare,Digital Transformation,Mid,Asia,94,116,10904,5997.2,4906.8
+2024-11-05,C3525,Government,Audit,Principal,North America,76,304,23104,10396.8,12707.2
+2024-04-04,C8851,Retail,Audit,Principal,Africa,15,392,5880,2646,3234
+2023-02-07,C6890,Government,Operations,Junior,North America,95,86,8170,4902,3268
+2023-09-12,C6816,Healthcare,Operations,Junior,Africa,51,87,4437,2662.2,1774.8
+2024-10-22,C7547,Technology,Audit,Junior,North America,167,73,12191,7314.6,4876.4
+2023-04-11,C5239,Healthcare,Operations,Mid,Middle East,76,96,7296,4012.8,3283.2
+2024-01-19,C7408,Energy,Operations,Mid,Asia,82,110,9020,4961,4059
+2023-01-26,C8909,Finance,Digital Transformation,Principal,North America,100,269,26900,12105,14795
+2023-04-29,C3321,Technology,Digital Transformation,Senior,Middle East,19,174,3306,1653,1653
+2023-07-31,C9537,Energy,Digital Transformation,Principal,North America,42,314,13188,5934.6,7253.4
+2024-03-24,C8412,Technology,Strategy,Senior,North America,119,201,23919,11959.5,11959.5
+2024-12-28,C2885,Finance,Digital Transformation,Junior,Europe,178,55,9790,5874,3916
+2023-09-07,C9454,Healthcare,Operations,Mid,Asia,145,123,17835,9809.25,8025.75
+2024-07-27,C7985,Energy,Data Analytics,Principal,Europe,88,261,22968,10335.6,12632.4
+2023-07-10,C8080,Energy,Strategy,Mid,Middle East,41,117,4797,2638.35,2158.65
+2024-08-29,C8037,Energy,Strategy,Mid,Europe,87,107,9309,5119.95,4189.05
+2023-10-13,C2025,Retail,Strategy,Mid,Asia,143,118,16874,9280.7,7593.3
+2023-11-30,C4228,Energy,Strategy,Senior,Middle East,69,180,12420,6210,6210
+2024-06-24,C6134,Retail,Audit,Principal,Africa,171,375,64125,28856.25,35268.75
+2023-04-27,C6700,Technology,Audit,Mid,Asia,20,145,2900,1595,1305
+2024-09-21,C2388,Government,Data Analytics,Senior,North America,146,222,32412,16206,16206
+2023-09-02,C6003,Finance,Data Analytics,Senior,Europe,16,246,3936,1968,1968
+2024-06-07,C7364,Energy,Operations,Mid,Africa,13,129,1677,922.35,754.65
+2024-01-28,C7931,Healthcare,Audit,Mid,Africa,112,141,15792,8685.6,7106.4
+2023-06-20,C9022,Technology,Data Analytics,Mid,Asia,175,139,24325,13378.75,10946.25
+2024-04-06,C1878,Technology,Strategy,Principal,Europe,71,341,24211,10894.95,13316.05
+2023-07-19,C7290,Retail,Operations,Principal,Middle East,23,382,8786,3953.7,4832.3
+2024-12-02,C9056,Energy,Audit,Principal,Europe,192,328,62976,28339.2,34636.8
+2023-03-26,C1505,Healthcare,Digital Transformation,Junior,Asia,158,59,9322,5593.2,3728.8
+2023-08-19,C9808,Technology,Data Analytics,Principal,Africa,176,331,58256,26215.2,32040.8
+2024-05-22,C9369,Finance,Operations,Junior,Asia,182,81,14742,8845.2,5896.8
+2024-07-10,C7010,Retail,Strategy,Principal,Africa,158,301,47558,21401.1,26156.9
+2023-08-12,C7965,Finance,Data Analytics,Senior,North America,121,248,30008,15004,15004
+2024-04-05,C5305,Technology,Strategy,Principal,North America,30,266,7980,3591,4389
+2023-08-31,C4438,Government,Operations,Senior,Africa,129,150,19350,9675,9675
+2024-10-09,C8015,Healthcare,Operations,Mid,Europe,69,122,8418,4629.9,3788.1
+2023-07-31,C1972,Retail,Digital Transformation,Senior,Africa,197,177,34869,17434.5,17434.5
+2024-07-05,C3758,Technology,Digital Transformation,Senior,Africa,17,198,3366,1683,1683
+2023-10-01,C9428,Government,Strategy,Mid,Middle East,154,113,17402,9571.1,7830.9
+2023-03-02,C5543,Government,Data Analytics,Mid,Europe,169,112,18928,10410.4,8517.6
+2023-05-30,C6277,Healthcare,Audit,Principal,Europe,96,266,25536,11491.2,14044.8
+2024-08-14,C5402,Government,Audit,Principal,Middle East,142,359,50978,22940.1,28037.9
+2023-03-19,C2525,Energy,Operations,Senior,Asia,148,156,23088,11544,11544
+2024-04-10,C8996,Technology,Operations,Junior,North America,60,54,3240,1944,1296
+2024-04-14,C6869,Finance,Operations,Principal,Europe,17,361,6137,2761.65,3375.35
+2024-03-15,C4470,Energy,Digital Transformation,Senior,Asia,90,174,15660,7830,7830
+2023-12-12,C9967,Retail,Data Analytics,Principal,Asia,187,375,70125,31556.25,38568.75
+2024-11-29,C1793,Finance,Strategy,Principal,North America,77,371,28567,12855.15,15711.85
+2023-05-08,C3588,Energy,Audit,Junior,Middle East,128,59,7552,4531.2,3020.8
+2023-07-27,C3161,Government,Digital Transformation,Mid,Asia,100,91,9100,5005,4095
+2023-04-06,C6905,Technology,Strategy,Senior,Europe,153,247,37791,18895.5,18895.5
+2023-02-23,C7493,Government,Digital Transformation,Mid,Middle East,19,106,2014,1107.7,906.3
+2024-11-02,C2494,Government,Strategy,Junior,Europe,192,58,11136,6681.6,4454.4
+2024-05-03,C2276,Healthcare,Operations,Mid,Africa,133,139,18487,10167.85,8319.15
+2024-11-27,C8291,Finance,Strategy,Senior,North America,188,181,34028,17014,17014
+2024-03-08,C3165,Energy,Strategy,Mid,Middle East,48,130,6240,3432,2808
+2023-04-02,C2678,Finance,Digital Transformation,Senior,Asia,158,157,24806,12403,12403
+2023-05-21,C7270,Healthcare,Data Analytics,Junior,Africa,113,56,6328,3796.8,2531.2
+2024-07-30,C1138,Retail,Data Analytics,Principal,Asia,159,278,44202,19890.9,24311.1
+2023-08-07,C3480,Energy,Operations,Principal,Europe,22,276,6072,2732.4,3339.6
+2023-03-30,C2646,Healthcare,Strategy,Principal,Asia,59,337,19883,8947.35,10935.65
+2024-03-15,C6152,Healthcare,Data Analytics,Senior,North America,53,192,10176,5088,5088
+2023-09-12,C5668,Government,Strategy,Senior,Europe,193,168,32424,16212,16212
+2024-06-14,C9348,Healthcare,Audit,Senior,North America,166,174,28884,14442,14442
+2023-09-03,C9108,Energy,Strategy,Mid,Middle East,120,131,15720,8646,7074
+2024-10-15,C2163,Retail,Strategy,Senior,Asia,81,154,12474,6237,6237
+2023-05-16,C7337,Retail,Audit,Senior,Africa,141,245,34545,17272.5,17272.5
+2024-11-30,C3830,Energy,Strategy,Junior,Africa,115,83,9545,5727,3818
+2023-03-11,C1225,Technology,Data Analytics,Junior,North America,158,88,13904,8342.4,5561.6
+2024-02-12,C9300,Technology,Operations,Principal,Middle East,178,335,59630,26833.5,32796.5
+2024-12-19,C7590,Finance,Operations,Mid,Asia,99,106,10494,5771.7,4722.3
+2023-03-27,C6077,Finance,Operations,Mid,Europe,130,142,18460,10153,8307
+2024-07-03,C6353,Energy,Operations,Junior,Asia,153,80,12240,7344,4896
+2024-12-16,C8167,Government,Data Analytics,Junior,Europe,110,53,5830,3498,2332
+2023-03-30,C8118,Finance,Audit,Junior,Asia,147,73,10731,6438.6,4292.4
+2024-11-13,C3877,Finance,Strategy,Mid,North America,63,128,8064,4435.2,3628.8
+2023-06-17,C9133,Technology,Operations,Senior,Europe,183,206,37698,18849,18849
+2024-01-16,C3079,Government,Digital Transformation,Junior,North America,26,56,1456,873.6,582.4
+2023-12-10,C8034,Technology,Operations,Junior,Asia,12,73,876,525.6,350.4
+2024-12-30,C2262,Energy,Audit,Senior,North America,141,179,25239,12619.5,12619.5
+2024-05-26,C3734,Technology,Data Analytics,Senior,North America,156,209,32604,16302,16302
+2024-08-10,C2889,Healthcare,Operations,Junior,North America,58,68,3944,2366.4,1577.6
+2023-01-13,C5006,Finance,Audit,Senior,Middle East,85,180,15300,7650,7650
+2023-06-03,C3932,Finance,Operations,Principal,Europe,28,362,10136,4561.2,5574.8
+2023-11-26,C5067,Energy,Digital Transformation,Senior,North America,192,212,40704,20352,20352
+2024-08-08,C7108,Finance,Operations,Junior,Europe,122,77,9394,5636.4,3757.6
+2023-08-17,C9450,Finance,Audit,Junior,Middle East,127,82,10414,6248.4,4165.6
+2023-10-17,C6090,Technology,Strategy,Principal,North America,157,296,46472,20912.4,25559.6
+2024-01-13,C4287,Technology,Operations,Senior,Africa,87,158,13746,6873,6873
+2023-09-06,C8600,Technology,Operations,Principal,Europe,153,387,59211,26644.95,32566.05
+2024-07-13,C5016,Healthcare,Strategy,Principal,North America,59,367,21653,9743.85,11909.15
+2023-08-27,C9872,Technology,Strategy,Senior,North America,90,184,16560,8280,8280
+2024-11-04,C7164,Government,Digital Transformation,Junior,Europe,163,54,8802,5281.2,3520.8
+2024-06-26,C4902,Energy,Audit,Junior,Europe,158,59,9322,5593.2,3728.8
+2024-12-29,C5584,Finance,Strategy,Mid,Africa,99,128,12672,6969.6,5702.4
+2024-02-27,C7102,Energy,Strategy,Junior,Africa,33,85,2805,1683,1122
+2023-05-17,C7461,Finance,Operations,Junior,Middle East,117,80,9360,5616,3744
+2024-11-09,C3141,Healthcare,Digital Transformation,Senior,Asia,167,179,29893,14946.5,14946.5
+2024-02-07,C6345,Technology,Audit,Senior,Europe,144,241,34704,17352,17352
+2023-03-18,C4321,Healthcare,Operations,Junior,Europe,129,59,7611,4566.6,3044.4
+2023-04-19,C3693,Energy,Audit,Senior,Middle East,79,249,19671,9835.5,9835.5
+2023-05-04,C9780,Technology,Data Analytics,Principal,Asia,93,270,25110,11299.5,13810.5
+2024-04-19,C5341,Finance,Strategy,Mid,Asia,187,116,21692,11930.6,9761.4
+2024-12-22,C1660,Healthcare,Digital Transformation,Mid,North America,136,107,14552,8003.6,6548.4
+2024-12-29,C5066,Technology,Audit,Junior,Asia,152,56,8512,5107.2,3404.8
+2023-09-24,C3848,Finance,Audit,Principal,Africa,137,307,42059,18926.55,23132.45
+2024-07-17,C5093,Finance,Audit,Junior,Europe,30,67,2010,1206,804
+2023-05-05,C1195,Finance,Data Analytics,Mid,Europe,174,138,24012,13206.6,10805.4
+2024-02-15,C7098,Government,Strategy,Senior,North America,98,210,20580,10290,10290
+2023-01-23,C2056,Healthcare,Audit,Mid,North America,136,111,15096,8302.8,6793.2
+2023-12-06,C3007,Finance,Audit,Junior,Europe,161,83,13363,8017.8,5345.2
+2024-08-10,C8096,Government,Audit,Principal,North America,178,266,47348,21306.6,26041.4
+2024-01-27,C7990,Healthcare,Digital Transformation,Mid,Europe,107,135,14445,7944.75,6500.25
+2023-10-09,C5585,Energy,Data Analytics,Junior,Africa,74,59,4366,2619.6,1746.4
+2024-09-26,C5026,Government,Digital Transformation,Principal,Middle East,31,393,12183,5482.35,6700.65
+2024-07-17,C8848,Finance,Strategy,Senior,Middle East,121,225,27225,13612.5,13612.5
+2023-05-21,C7868,Healthcare,Operations,Mid,Africa,177,149,26373,14505.15,11867.85
+2023-01-20,C7266,Government,Digital Transformation,Principal,Africa,108,269,29052,13073.4,15978.6
+2024-05-11,C6636,Retail,Operations,Senior,Middle East,163,235,38305,19152.5,19152.5
+2023-10-04,C3946,Finance,Digital Transformation,Mid,North America,129,110,14190,7804.5,6385.5
+2023-10-15,C1959,Energy,Operations,Senior,Africa,101,189,19089,9544.5,9544.5
+2023-08-27,C3615,Finance,Data Analytics,Mid,Asia,37,138,5106,2808.3,2297.7
+2024-06-30,C1916,Healthcare,Operations,Principal,Asia,162,346,56052,25223.4,30828.6
+2023-06-27,C3885,Healthcare,Operations,Senior,Asia,51,188,9588,4794,4794
+2024-08-28,C1462,Government,Digital Transformation,Mid,Africa,98,94,9212,5066.6,4145.4
+2023-07-12,C9064,Retail,Digital Transformation,Mid,Middle East,21,97,2037,1120.35,916.65
+2023-02-08,C2478,Finance,Data Analytics,Mid,North America,173,110,19030,10466.5,8563.5
+2024-06-23,C8831,Finance,Digital Transformation,Mid,Europe,146,137,20002,11001.1,9000.9
+2023-12-15,C3907,Technology,Strategy,Junior,Europe,69,69,4761,2856.6,1904.4
+2024-08-23,C3320,Finance,Operations,Senior,North America,16,152,2432,1216,1216
+2024-01-18,C7481,Retail,Strategy,Senior,Asia,123,182,22386,11193,11193
+2023-11-27,C3235,Healthcare,Audit,Principal,Asia,17,356,6052,2723.4,3328.6
+2023-06-28,C6846,Healthcare,Operations,Mid,Middle East,110,119,13090,7199.5,5890.5
+2023-11-11,C5825,Healthcare,Data Analytics,Junior,Africa,28,81,2268,1360.8,907.2
+2024-02-05,C1530,Healthcare,Operations,Senior,Africa,55,212,11660,5830,5830
+2023-08-15,C2705,Energy,Data Analytics,Senior,North America,128,162,20736,10368,10368
+2023-09-01,C6682,Technology,Data Analytics,Junior,Asia,165,87,14355,8613,5742
+2024-04-02,C1186,Technology,Data Analytics,Mid,North America,137,94,12878,7082.9,5795.1
+2023-12-25,C5205,Finance,Strategy,Junior,Middle East,106,53,5618,3370.8,2247.2
+2024-03-24,C7875,Healthcare,Audit,Principal,Middle East,142,258,36636,16486.2,20149.8
+2023-12-26,C9946,Energy,Strategy,Principal,Africa,125,309,38625,17381.25,21243.75
+2024-10-28,C4695,Healthcare,Audit,Junior,North America,181,60,10860,6516,4344
+2023-10-29,C1328,Technology,Digital Transformation,Junior,North America,117,58,6786,4071.6,2714.4
+2023-12-17,C3787,Energy,Data Analytics,Junior,Africa,85,77,6545,3927,2618
+2023-04-06,C6536,Retail,Operations,Principal,North America,165,283,46695,21012.75,25682.25
+2024-03-17,C3703,Retail,Audit,Mid,North America,50,147,7350,4042.5,3307.5
+2023-04-14,C6424,Healthcare,Data Analytics,Principal,Africa,185,357,66045,29720.25,36324.75
+2024-07-07,C5346,Government,Digital Transformation,Senior,Europe,148,240,35520,17760,17760
+2023-04-09,C1813,Energy,Operations,Principal,Europe,134,296,39664,17848.8,21815.2
+2023-02-25,C6911,Finance,Audit,Junior,Asia,176,55,9680,5808,3872
+2024-11-08,C8869,Healthcare,Strategy,Junior,Europe,10,57,570,342,228
+2023-06-24,C5781,Finance,Audit,Junior,Asia,76,53,4028,2416.8,1611.2
+2024-02-12,C8715,Energy,Digital Transformation,Junior,Africa,47,64,3008,1804.8,1203.2
+2024-02-01,C4029,Technology,Audit,Senior,Europe,126,225,28350,14175,14175
+2024-04-01,C1731,Technology,Audit,Principal,Asia,48,364,17472,7862.4,9609.6
+2023-08-20,C5400,Retail,Strategy,Mid,North America,143,112,16016,8808.8,7207.2
+2023-03-29,C6632,Retail,Audit,Mid,Africa,107,103,11021,6061.55,4959.45
+2023-03-04,C7342,Retail,Audit,Principal,Africa,199,327,65073,29282.85,35790.15
+2023-08-30,C8803,Technology,Strategy,Principal,North America,93,263,24459,11006.55,13452.45
+2024-05-29,C9467,Retail,Operations,Mid,North America,163,112,18256,10040.8,8215.2
+2024-04-04,C3832,Healthcare,Data Analytics,Mid,Europe,119,131,15589,8573.95,7015.05
+2023-02-13,C7936,Finance,Audit,Mid,Europe,182,103,18746,10310.3,8435.7
+2024-09-01,C5225,Technology,Strategy,Junior,Middle East,133,68,9044,5426.4,3617.6
+2024-07-23,C7510,Retail,Digital Transformation,Senior,Africa,175,230,40250,20125,20125
+2024-04-14,C1202,Government,Operations,Principal,North America,18,338,6084,2737.8,3346.2
+2024-02-29,C3451,Healthcare,Operations,Junior,North America,151,60,9060,5436,3624
+2024-07-30,C2654,Technology,Operations,Senior,Middle East,50,217,10850,5425,5425
+2023-09-28,C7275,Government,Audit,Principal,North America,11,265,2915,1311.75,1603.25
+2023-06-26,C5512,Energy,Data Analytics,Principal,North America,71,260,18460,8307,10153
+2024-02-10,C6431,Government,Data Analytics,Junior,Middle East,73,70,5110,3066,2044
+2023-10-03,C7102,Finance,Digital Transformation,Senior,Asia,29,193,5597,2798.5,2798.5
+2023-10-15,C9054,Government,Strategy,Mid,Europe,77,106,8162,4489.1,3672.9
+2023-11-04,C8259,Technology,Digital Transformation,Principal,Africa,17,325,5525,2486.25,3038.75
+2024-10-23,C2462,Healthcare,Audit,Mid,Middle East,191,135,25785,14181.75,11603.25
+2024-05-11,C9462,Technology,Strategy,Mid,North America,114,115,13110,7210.5,5899.5
+2023-11-15,C9303,Energy,Data Analytics,Junior,Europe,159,89,14151,8490.6,5660.4
+2023-07-17,C4288,Finance,Data Analytics,Junior,Middle East,29,78,2262,1357.2,904.8
+2023-02-21,C6904,Government,Data Analytics,Senior,Asia,101,171,17271,8635.5,8635.5
+2024-04-20,C9275,Energy,Strategy,Junior,Europe,182,52,9464,5678.4,3785.6
+2024-01-17,C9008,Retail,Audit,Mid,Middle East,192,97,18624,10243.2,8380.8
+2024-08-23,C6730,Technology,Data Analytics,Senior,North America,162,210,34020,17010,17010
+2023-10-19,C1449,Energy,Strategy,Mid,Africa,15,116,1740,957,783
+2023-08-08,C4626,Government,Data Analytics,Mid,Asia,115,146,16790,9234.5,7555.5
+2024-10-29,C7709,Retail,Strategy,Junior,Middle East,108,89,9612,5767.2,3844.8
+2023-05-16,C3837,Retail,Strategy,Mid,Asia,65,127,8255,4540.25,3714.75
+2024-09-14,C6004,Government,Digital Transformation,Principal,Middle East,122,373,45506,20477.7,25028.3
+2023-12-24,C8520,Technology,Data Analytics,Principal,Asia,106,311,32966,14834.7,18131.3
+2024-11-24,C9530,Retail,Audit,Junior,North America,115,58,6670,4002,2668
+2024-06-07,C7131,Retail,Operations,Senior,Asia,50,170,8500,4250,4250
+2024-12-01,C2771,Energy,Strategy,Senior,Asia,68,190,12920,6460,6460
+2024-10-17,C6327,Technology,Digital Transformation,Senior,Europe,150,168,25200,12600,12600
+2023-06-03,C9475,Healthcare,Strategy,Principal,Asia,86,325,27950,12577.5,15372.5
+2024-11-28,C3292,Government,Strategy,Principal,Asia,81,294,23814,10716.3,13097.7
+2023-09-23,C7857,Energy,Audit,Junior,Africa,99,88,8712,5227.2,3484.8
+2024-12-26,C4111,Technology,Data Analytics,Principal,Asia,162,333,53946,24275.7,29670.3
+2024-06-03,C5918,Healthcare,Operations,Mid,Asia,91,91,8281,4554.55,3726.45
+2023-04-10,C8713,Healthcare,Digital Transformation,Mid,Asia,173,126,21798,11988.9,9809.1
+2024-11-01,C2463,Healthcare,Digital Transformation,Mid,Asia,122,101,12322,6777.1,5544.9
+2024-03-06,C6428,Technology,Digital Transformation,Senior,Middle East,176,223,39248,19624,19624
+2023-05-01,C8709,Finance,Operations,Junior,Middle East,84,62,5208,3124.8,2083.2
+2023-07-19,C9199,Finance,Audit,Senior,Middle East,127,188,23876,11938,11938
+2023-02-25,C3470,Healthcare,Data Analytics,Senior,Middle East,12,176,2112,1056,1056
+2024-08-06,C8496,Healthcare,Digital Transformation,Mid,North America,11,127,1397,768.35,628.65
+2024-05-14,C6449,Government,Data Analytics,Senior,North America,103,230,23690,11845,11845
+2023-01-05,C8406,Technology,Data Analytics,Mid,Africa,172,144,24768,13622.4,11145.6
+2023-06-12,C9021,Finance,Data Analytics,Principal,Middle East,71,287,20377,9169.65,11207.35
+2024-02-18,C8029,Energy,Audit,Junior,North America,37,70,2590,1554,1036
+2024-06-30,C4267,Government,Digital Transformation,Junior,Asia,182,58,10556,6333.6,4222.4
+2024-06-27,C4122,Finance,Strategy,Mid,Europe,107,92,9844,5414.2,4429.8
+2024-12-11,C6641,Technology,Data Analytics,Junior,Middle East,50,72,3600,2160,1440
+2024-05-30,C6015,Healthcare,Strategy,Junior,Asia,169,85,14365,8619,5746
+2023-10-25,C8469,Government,Operations,Senior,Middle East,193,156,30108,15054,15054
+2024-12-04,C3192,Technology,Audit,Senior,Europe,74,169,12506,6253,6253
+2023-06-18,C7609,Finance,Data Analytics,Mid,Europe,166,149,24734,13603.7,11130.3
+2023-08-05,C1359,Retail,Operations,Mid,North America,148,94,13912,7651.6,6260.4
+2024-01-11,C1612,Energy,Digital Transformation,Junior,Africa,193,61,11773,7063.8,4709.2
+2023-02-19,C2771,Government,Strategy,Junior,North America,141,54,7614,4568.4,3045.6
+2024-03-02,C8279,Energy,Strategy,Senior,Middle East,84,176,14784,7392,7392
+2024-12-19,C3508,Healthcare,Strategy,Senior,Middle East,60,164,9840,4920,4920
+2024-11-08,C2654,Government,Operations,Senior,Africa,179,186,33294,16647,16647
+2024-09-12,C3247,Energy,Strategy,Junior,Asia,110,84,9240,5544,3696
+2023-04-27,C2741,Energy,Data Analytics,Mid,Asia,122,102,12444,6844.2,5599.8
+2024-06-19,C4304,Technology,Audit,Senior,Europe,154,171,26334,13167,13167
+2023-02-10,C9980,Energy,Data Analytics,Principal,Asia,78,390,30420,13689,16731
+2023-08-29,C1044,Finance,Strategy,Junior,Africa,171,71,12141,7284.6,4856.4
+2024-11-16,C9095,Healthcare,Strategy,Junior,North America,51,83,4233,2539.8,1693.2
+2023-09-20,C4787,Energy,Digital Transformation,Senior,Middle East,183,160,29280,14640,14640
+2023-02-21,C2635,Healthcare,Strategy,Senior,Asia,77,212,16324,8162,8162
+2024-11-24,C6123,Energy,Strategy,Junior,North America,134,84,11256,6753.6,4502.4
+2023-01-10,C3267,Government,Data Analytics,Senior,Asia,188,231,43428,21714,21714
+2024-03-24,C5395,Government,Strategy,Senior,Asia,161,234,37674,18837,18837
+2023-07-07,C2865,Energy,Audit,Principal,Asia,37,367,13579,6110.55,7468.45
+2024-01-30,C8835,Energy,Data Analytics,Junior,Europe,156,76,11856,7113.6,4742.4
+2024-12-13,C1960,Healthcare,Strategy,Principal,Africa,63,388,24444,10999.8,13444.2
+2024-05-09,C8178,Healthcare,Operations,Principal,Asia,14,295,4130,1858.5,2271.5
+2024-09-18,C1472,Government,Data Analytics,Principal,Middle East,21,297,6237,2806.65,3430.35
+2023-04-26,C7738,Energy,Strategy,Junior,Asia,117,81,9477,5686.2,3790.8
+2024-11-01,C6148,Finance,Operations,Mid,Asia,84,113,9492,5220.6,4271.4
+2024-06-15,C9570,Government,Operations,Junior,Middle East,164,60,9840,5904,3936
+2024-11-08,C5072,Energy,Digital Transformation,Principal,Europe,101,297,29997,13498.65,16498.35
+2024-07-25,C1894,Finance,Data Analytics,Principal,Middle East,82,330,27060,12177,14883
+2023-06-19,C2226,Energy,Digital Transformation,Mid,Asia,90,121,10890,5989.5,4900.5
+2023-10-12,C1824,Retail,Data Analytics,Principal,Middle East,72,318,22896,10303.2,12592.8
+2023-08-29,C2291,Energy,Audit,Principal,North America,22,363,7986,3593.7,4392.3
+2024-05-25,C8324,Technology,Strategy,Principal,North America,31,316,9796,4408.2,5387.8
+2023-04-16,C7609,Energy,Strategy,Junior,North America,63,59,3717,2230.2,1486.8
+2024-09-10,C5990,Retail,Operations,Mid,Middle East,30,101,3030,1666.5,1363.5
+2023-12-16,C6953,Finance,Data Analytics,Principal,Asia,193,296,57128,25707.6,31420.4
+2024-07-27,C8751,Government,Digital Transformation,Principal,North America,172,275,47300,21285,26015
+2023-04-10,C4633,Finance,Digital Transformation,Senior,Asia,122,179,21838,10919,10919
+2024-07-14,C9552,Technology,Strategy,Junior,Europe,76,50,3800,2280,1520
+2024-05-19,C3301,Government,Audit,Junior,Asia,10,64,640,384,256
+2024-09-17,C4209,Healthcare,Strategy,Principal,Europe,142,284,40328,18147.6,22180.4
+2024-04-13,C4122,Government,Digital Transformation,Junior,Middle East,113,72,8136,4881.6,3254.4
+2023-02-17,C3018,Energy,Audit,Mid,Middle East,13,120,1560,858,702
+2023-01-05,C9689,Government,Strategy,Principal,Africa,81,283,22923,10315.35,12607.65
+2024-05-09,C9328,Healthcare,Operations,Mid,Europe,54,148,7992,4395.6,3596.4
+2023-04-17,C7347,Government,Operations,Senior,Africa,177,183,32391,16195.5,16195.5
+2024-01-29,C7859,Retail,Data Analytics,Senior,Middle East,153,215,32895,16447.5,16447.5
+2023-12-18,C5819,Energy,Data Analytics,Mid,Middle East,193,149,28757,15816.35,12940.65
+2024-09-08,C9393,Technology,Operations,Senior,Africa,145,204,29580,14790,14790
+2024-10-09,C4560,Healthcare,Data Analytics,Senior,Asia,127,202,25654,12827,12827
+2024-11-19,C3173,Government,Data Analytics,Senior,North America,74,179,13246,6623,6623
+2023-12-27,C8870,Retail,Operations,Principal,Africa,30,306,9180,4131,5049
+2023-10-20,C7920,Finance,Operations,Junior,North America,34,71,2414,1448.4,965.6
+2024-01-26,C3381,Finance,Strategy,Mid,Asia,41,99,4059,2232.45,1826.55
+2023-06-14,C5695,Government,Digital Transformation,Mid,North America,61,121,7381,4059.55,3321.45
+2024-12-08,C5835,Healthcare,Operations,Junior,Asia,62,73,4526,2715.6,1810.4
+2024-04-08,C2679,Retail,Operations,Mid,Africa,13,148,1924,1058.2,865.8
+2024-02-03,C4892,Retail,Digital Transformation,Junior,Middle East,21,80,1680,1008,672
+2024-02-01,C7825,Government,Digital Transformation,Junior,North America,107,60,6420,3852,2568
+2023-09-15,C4327,Retail,Audit,Mid,Asia,88,138,12144,6679.2,5464.8
+2024-08-25,C9955,Government,Operations,Mid,Europe,105,127,13335,7334.25,6000.75
+2023-10-29,C8353,Healthcare,Strategy,Mid,Europe,97,130,12610,6935.5,5674.5
+2024-06-10,C2955,Energy,Strategy,Principal,Asia,181,370,66970,30136.5,36833.5
+2024-07-23,C5329,Healthcare,Data Analytics,Senior,North America,74,176,13024,6512,6512
+2023-12-05,C8640,Government,Data Analytics,Junior,Europe,91,64,5824,3494.4,2329.6
+2023-11-27,C1833,Government,Operations,Senior,Middle East,186,205,38130,19065,19065
+2024-08-09,C6866,Finance,Digital Transformation,Mid,Europe,195,115,22425,12333.75,10091.25
+2024-06-17,C2117,Retail,Data Analytics,Principal,Africa,129,398,51342,23103.9,28238.1
+2024-07-03,C7609,Finance,Digital Transformation,Mid,Europe,22,122,2684,1476.2,1207.8
+2024-11-10,C6437,Technology,Digital Transformation,Senior,Europe,20,196,3920,1960,1960
+2024-09-25,C9691,Energy,Operations,Junior,North America,103,58,5974,3584.4,2389.6
+2024-11-15,C6668,Energy,Data Analytics,Mid,North America,46,126,5796,3187.8,2608.2
+2024-11-29,C6258,Energy,Strategy,Principal,Asia,37,354,13098,5894.1,7203.9
+2024-07-07,C5633,Finance,Operations,Senior,Africa,133,162,21546,10773,10773
+2024-06-04,C8300,Energy,Strategy,Senior,Europe,109,165,17985,8992.5,8992.5
+2023-11-25,C9419,Finance,Strategy,Mid,Africa,82,100,8200,4510,3690
+2024-06-30,C1120,Government,Strategy,Mid,Europe,118,134,15812,8696.6,7115.4
+2024-12-02,C7950,Finance,Data Analytics,Principal,North America,17,252,4284,1927.8,2356.2
+2024-12-03,C3519,Finance,Audit,Senior,North America,37,193,7141,3570.5,3570.5
+2023-03-31,C2200,Finance,Data Analytics,Senior,Africa,37,203,7511,3755.5,3755.5
+2023-03-14,C4729,Technology,Audit,Principal,Middle East,109,262,28558,12851.1,15706.9
+2024-10-07,C7626,Energy,Digital Transformation,Junior,Middle East,66,59,3894,2336.4,1557.6
+2024-11-20,C2938,Retail,Strategy,Junior,Africa,62,59,3658,2194.8,1463.2
+2023-02-16,C2189,Technology,Operations,Junior,Asia,33,51,1683,1009.8,673.2
+2024-12-03,C5937,Retail,Strategy,Senior,Middle East,151,174,26274,13137,13137
+2024-01-26,C7473,Government,Strategy,Principal,Europe,120,365,43800,19710,24090
+2024-06-30,C4602,Healthcare,Audit,Senior,Europe,33,174,5742,2871,2871
+2023-11-02,C7113,Finance,Operations,Mid,North America,197,127,25019,13760.45,11258.55
+2023-02-12,C1082,Retail,Operations,Principal,Africa,128,353,45184,20332.8,24851.2
+2024-07-14,C2394,Technology,Data Analytics,Senior,Europe,101,202,20402,10201,10201
+2024-02-27,C9397,Healthcare,Data Analytics,Mid,Europe,144,121,17424,9583.2,7840.8
+2024-09-23,C5140,Healthcare,Strategy,Mid,Africa,64,141,9024,4963.2,4060.8
+2023-02-25,C9992,Energy,Operations,Junior,Asia,21,65,1365,819,546
+2024-11-18,C2103,Technology,Strategy,Mid,Africa,144,136,19584,10771.2,8812.8
+2024-05-13,C6420,Technology,Data Analytics,Mid,North America,17,112,1904,1047.2,856.8
+2023-10-19,C2143,Healthcare,Digital Transformation,Principal,Middle East,68,347,23596,10618.2,12977.8
+2023-12-03,C6008,Government,Operations,Mid,Africa,165,104,17160,9438,7722
+2024-08-03,C6971,Technology,Audit,Mid,North America,99,98,9702,5336.1,4365.9
+2023-11-17,C5033,Healthcare,Audit,Senior,Asia,105,224,23520,11760,11760
+2023-05-18,C6432,Energy,Audit,Principal,Asia,41,308,12628,5682.6,6945.4
+2023-11-09,C8978,Retail,Strategy,Mid,Africa,99,131,12969,7132.95,5836.05
+2023-03-25,C5597,Healthcare,Operations,Mid,Asia,34,148,5032,2767.6,2264.4
+2024-10-03,C2252,Government,Strategy,Junior,Africa,20,62,1240,744,496
+2024-10-08,C1511,Retail,Operations,Principal,Africa,77,314,24178,10880.1,13297.9
+2023-08-06,C1600,Retail,Digital Transformation,Principal,Europe,58,306,17748,7986.6,9761.4
+2024-01-10,C7430,Healthcare,Operations,Senior,Europe,56,195,10920,5460,5460
+2024-04-20,C9210,Retail,Strategy,Principal,Asia,123,354,43542,19593.9,23948.1
+2024-05-29,C1173,Government,Data Analytics,Mid,Africa,63,139,8757,4816.35,3940.65
+2023-05-24,C8310,Healthcare,Data Analytics,Mid,Middle East,70,135,9450,5197.5,4252.5
+2024-01-03,C1662,Healthcare,Audit,Mid,North America,47,107,5029,2765.95,2263.05
+2023-09-28,C7052,Healthcare,Strategy,Mid,Africa,150,119,17850,9817.5,8032.5
+2024-01-05,C7358,Energy,Audit,Junior,North America,102,57,5814,3488.4,2325.6
+2024-10-26,C6309,Finance,Operations,Senior,Asia,86,177,15222,7611,7611
+2024-08-15,C9918,Retail,Data Analytics,Principal,Middle East,178,297,52866,23789.7,29076.3
+2024-01-10,C2275,Retail,Digital Transformation,Principal,Europe,193,388,74884,33697.8,41186.2
+2024-06-12,C7649,Technology,Digital Transformation,Principal,Middle East,110,304,33440,15048,18392
+2024-09-10,C1108,Retail,Data Analytics,Principal,Europe,111,253,28083,12637.35,15445.65
+2023-08-24,C2263,Retail,Digital Transformation,Mid,Europe,117,148,17316,9523.8,7792.2
+2023-07-11,C3578,Technology,Operations,Junior,Europe,116,65,7540,4524,3016
