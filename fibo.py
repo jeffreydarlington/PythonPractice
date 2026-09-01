@@ -1,0 +1,53 @@
+class Queue():
+
+    def __init__(self, k):
+        self.k = k
+        self.queue = [None] * k
+        self.head = self.tail = -1
+
+    def enqueue(self, data):
+        if (self.tail == self.k - 1):
+            print("Queue is full\n")
+
+        elif (self.head == -1):
+            self.head = 0
+            self.tail = 0
+            self.queue[self.tail] = data
+        else:
+            self.tail += 1
+            self.queue[self.tail] = data
+
+    def dequeue(self):
+        if (self.head == -1):
+            print("Queue is empty\n")
+
+        elif (self.head == self.tail):
+            temp = self.queue[self.head]
+            self.head = -1
+            self.tail = -1
+            return temp
+        else:
+            temp = self.queue[self.head]
+            self.head += 1
+            return temp
+
+    def print_queue(self):
+        if (self.head == -1):
+            print("No elements in Queue")
+
+        else:
+            for i in range(self.head, self.tail + 1):
+                print(self.queue[i], end=" ")
+            print()
+
+obj = Queue(5)
+obj.enqueue(1)
+obj.enqueue(2)
+obj.enqueue(3)
+obj.enqueue(4)
+print("Initial Queue")
+obj.print_queue()
+
+obj.dequeue()
+print("Queue after removing an element")
+obj.print_queue()
